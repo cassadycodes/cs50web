@@ -1,0 +1,10 @@
+body {font-family: Roboto, sans-serif;}
+#container {text-align: center; max-width: 800px; width: 100%; margin: auto; padding: 50px;}
+#logo {margin: 10px;}
+input {padding: 10px; border-radius: 25px; margin: 12px; border: solid 1px lightgray; color: black;}
+input[type=text] {width: 75%; height: 45px;}
+input[type=submit] {border-radius: 4px; background-color: #f1f3f4; color: black; border: solid 1px white;}
+input[type=submit]:hover {border: solid 1px #babcbe;}
+#nav {position: fixed; top: 0; right: 0; padding: 10px;}
+a {color: #4285F4; text-decoration: none; font-weight: bold;}
+a:hover {text-decoration: underline;}
